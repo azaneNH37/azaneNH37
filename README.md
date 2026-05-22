@@ -7,7 +7,7 @@
 - 🎈 Into game development, software engineering, and modding
 - ⚙️ Skilled in `Unity` & `Minecraft modding`
 - 🌱 `Web dev` & `Unreal Engine` — 勉強中
-- 🎮 Favourite games including `Quantum Protocol`, `Chrono Ark`, `Against The Storm` and `ENDER LILIES`
+- 🎮 Favourite games including `Quantum Protocol`, `Chrono Ark`, `Limbus Company` , `Against The Storm` and `ENDER LILIES`
 
 ---
 
