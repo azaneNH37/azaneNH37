@@ -1,9 +1,14 @@
-<div align="center">
+#### Hi there, I'm Azane! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ZCOOL+KuaiLe&size=40&duration=10&color=842AE6&center=true&multiline=true&repeat=false&lines=%F0%9F%92%A6%E5%91%BC%E5%91%BC%E5%91%BC%EF%BC%9F)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ZCOOL+KuaiLe&size=40&duration=10&color=E61598&center=true&multiline=true&repeat=false&lines=%F0%9F%92%A2%E5%93%90%E5%93%90%E5%93%90%EF%BC%9F)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ZCOOL+KuaiLe&size=40&duration=10&color=E61738&center=true&multiline=true&repeat=false&lines=%E2%9D%A4%EF%B8%8F%E5%91%BC%E5%93%90%E5%91%BC%E5%93%90%E5%91%BC%E5%93%90%EF%BC%81)](https://git.io/typing-svg)
+---
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,java,gradle,idea,md,c,cs,cpp,gmail,twitter,ps,pr,unity,vscode,anaconda,py,pycharm,vue,nodejs,ubuntu,windows&perline=11)](https://skillicons.dev)
+🎓 Allegedly a CS undergrad from Shanghai
+😴 Professionally skilled at sleeping and gaming
+🎈 Into game development, software engineering, and modding
+⚙️ Working with `Unity` & `Minecraft modding`
+🌱 `Web dev` & `Unreal Engine` — 勉強中
+🎮 Favourite games including `Quantum Protocol`, `Chrono Ark`, `Against The Storm` and `ENDER LILIES`
 
-![你的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=azaneNH37&show_icons=true&theme=radical)
+---
+
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,c,cpp,python,java,dotnet,ocaml,nodejs,react,ps,pr,docker,vscode,windows,linux&perline=8)](https://skillicons.dev)
